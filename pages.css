@@ -1,0 +1,165 @@
+.flex2{
+font-family: italic;
+	background-color: lightgray;
+	top: 0;
+  margin-left: 0px
+}
+header {
+  position: fixed;
+  min-height: 75px;
+  display: flex;
+  align-items: center;
+  margin-right: 0px;
+  background-color: lightgray ;
+  top:0;
+padding-bottom: 0px;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+
+.ul {
+  width: 88vw;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 20px;
+  margin-right: 0px;
+  text-align: right;
+}
+
+.nn{
+	text-align: center;
+	margin-left: px;
+  background-size: 100% 100%;
+  padding-top: 150px;
+	
+}
+
+
+
+  .fafas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 125px;
+  width: 20vw;
+  color: darkorange;
+}
+ .box-container {
+    display: flex;
+    grid-gap: 20px;
+    margin-right: 150px;
+        margin-left: 200px;
+        padding-bottom: 40px;
+}
+  .yy{
+  	text-align: right;
+  	background-color: lightgrey;
+  	padding-top: 10px;
+  	border-radius: 10px;
+    margin-right: 150px;
+        margin-left: 200px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+  }
+
+  .box-1 {
+    background-color: lightgrey ;
+    width: 70%;
+    height: 600%;
+    padding-left: 0px;
+    border: 1 solid black;
+       
+
+  }
+
+  .box-2 {
+    background-color: lightgrey ;
+    width: 70%;
+    height: 600%;
+    padding-left: 0px;
+       
+  }
+
+   .box-3{
+    background-color: lightgrey;
+    width: 73%;
+    height: 600%;
+    padding-left: 0px;
+       
+		   }
+		   .xxn{
+		   	background-color: whitesmoke;
+		   	margin-right: auto;
+          background-color: #eee;
+  font-family: 'Lato', sans-serif;
+        
+}
+.oo{
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  padding-top:80px;
+  margin-right: 150px;
+        margin-left: 200px;
+  
+}
+
+ .mimi{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100px;
+  width: 80vw;
+  padding: 5px;
+  
+}
+.flex{ display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 125px;
+  width: 20vw;
+  color: darkorange;
+}
+.vid{
+  justify-content: center;
+  margin-right: 400px;
+  width:350px;
+  height:200px;
+  margin-left: 500px;
+  padding-bottom: 30px;
+  padding-top: 40px;
+}
+.btn{
+background-color: gray;
+padding: 0 20px;
+  height: 40px;
+  font-size: 1em;
+  font-weight: 900;
+  text-transform: uppercase;
+  border: 3px black solid;
+  border-radius: 2px;
+  cursor: pointer;
+  align-items: center;
+}
+@media (max-width: 600px){
+  .xnn{
+display: flex;
+  }
+}
+#header-img{
+  max-width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 30px;
+   margin-top: px;
+    width: 100%;
+    
+}
